@@ -2,7 +2,7 @@
 Getting familiar with the basic methods of HashMap was good as well */
 
 /*
-Problem - 1
+Problem - 1 Difficulty - Easy
 Link to problem - Count Non-repeated Elements
 https://practice.geeksforgeeks.org/problems/count-distinct-elements-1587115620/1/?track=SPC-Hashing&batchId=135
 My solution to problem - 
@@ -28,7 +28,7 @@ static long countNonRepeated(int arr[], int n)
 }
 
 /*
-Problem - 2
+Problem - 2 Difficulty - Easy
 
 Link to problem - Print Non-Repeated Elements in order
 https://practice.geeksforgeeks.org/problems/print-distinct-elements-1587115620/1/?track=SPC-Hashing&batchId=135

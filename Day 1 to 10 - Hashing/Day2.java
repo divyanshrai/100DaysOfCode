@@ -1,5 +1,5 @@
 /* 
-Problem - 3
+Problem - 3 Difficulty - Easy
 Link to problem - First Repeating Element
 https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1/?track=SPC-Hashing&batchId=135
 
@@ -35,7 +35,7 @@ public static int firstRepeated(int []arr, int n)
 }
 
 /* 
-Problem - 4
+Problem - 4 Difficulty - Easy
 Link to problem - Intersection of two arrays
 https://practice.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1/?track=SPC-Hashing&batchId=135
 
@@ -46,6 +46,12 @@ For this question, the intersection of two arrays can be defined as the set
 containing distinct common elements between the two arrays
 
 My solution to problem - 
+
+Why is !counted.contains(b[i] added?
+{1,2,3}
+{2,2,2}
+
+Try the count of this without it.
 */
 
 public static int NumberofElementsInIntersection (int a[], int b[] , int n, int m)
@@ -66,7 +72,7 @@ public static int NumberofElementsInIntersection (int a[], int b[] , int n, int 
 }
 
 /* 
-Problem - 5
+Problem - 5 Difficulty - Easy
 Link to problem - Union of two arrays
 https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1/?track=SPC-Hashing&batchId=135
 
@@ -91,7 +97,7 @@ public static int doUnion(int a[], int n, int b[], int m)
 }
 
 /* 
-Problem - 6
+Problem - 6 Difficulty - Easy
 Link to problem - Hashing for pair - 1
 https://practice.geeksforgeeks.org/problems/hashing-for-pair-1/1/?track=SPC-Hashing&batchId=135
 
